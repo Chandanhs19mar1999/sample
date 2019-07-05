@@ -25,7 +25,7 @@ SECRET_KEY = 'v*wllt5d(s72p$r(l15&4@l8v5t!5%&4e+j8bx8p$)lip=mi_('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['limitless-harbor-40204.herokuapp.com']
 
 
 # Application definition
